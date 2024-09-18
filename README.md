@@ -1,6 +1,7 @@
 **Home Price Prediction**
 
 **Overview**
+
 The Home Price Prediction project aims to predict house prices using various data science and machine learning techniques. This project leverages historical data on home features to build predictive models that can estimate the value of homes.
 
 **Features**
