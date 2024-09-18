@@ -21,9 +21,11 @@ Model Evaluation: Evaluates model performance using metrics such as Mean Absolut
 Prediction: Provides functionality to predict home prices based on user inputs.
 
 **Getting Started**
+
 To get started with the Home Price Prediction project, follow these steps:
 
 **Prerequisites**
 
-Python 3.7 or higher
+Python 3.7 or higher.
+
 Libraries: numpy, pandas, scikit-learn, matplotlib, seaborn, xgboost (Install using pip)
